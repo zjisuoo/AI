@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed5171c1-485c-47dd-95f4-d36e504a9cfa" name="Default Changelist" comment="" />
+    <list default="true" id="ed5171c1-485c-47dd-95f4-d36e504a9cfa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X4coyqzSdrOfMZNh19q1oCBbWL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +29,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.singlenueron02">
     <configuration name="singleneuron01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -46,8 +54,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="singlenueron02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Single_Neuron" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Single_Neuron/singlenueron02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.singlenueron02" />
         <item itemvalue="Python.singleneuron01" />
       </list>
     </recent_temporary>
@@ -66,25 +96,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="699" height="206" key="GridCell.Tab.0.bottom" timestamp="1580310300147">
+    <state width="1419" height="206" key="GridCell.Tab.0.bottom" timestamp="1580312993438">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="699" height="206" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1580310300147" />
-    <state width="699" height="206" key="GridCell.Tab.0.center" timestamp="1580310300146">
+    <state width="1419" height="206" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1580312993438" />
+    <state width="1419" height="206" key="GridCell.Tab.0.center" timestamp="1580312993437">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="699" height="206" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1580310300146" />
-    <state width="699" height="206" key="GridCell.Tab.0.left" timestamp="1580310300146">
+    <state width="1419" height="206" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1580312993437" />
+    <state width="1419" height="206" key="GridCell.Tab.0.left" timestamp="1580312993436">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="699" height="206" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1580310300146" />
-    <state width="699" height="206" key="GridCell.Tab.0.right" timestamp="1580310300147">
+    <state width="1419" height="206" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1580312993436" />
+    <state width="1419" height="206" key="GridCell.Tab.0.right" timestamp="1580312993437">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="699" height="206" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1580310300147" />
-    <state x="443" y="64" key="SettingsEditor" timestamp="1580309397336">
+    <state width="1419" height="206" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1580312993437" />
+    <state x="443" y="64" key="SettingsEditor" timestamp="1580312155821">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state x="443" y="64" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1580309397336" />
+    <state x="443" y="64" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1580312155821" />
   </component>
 </project>
