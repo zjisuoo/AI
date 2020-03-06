@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed5171c1-485c-47dd-95f4-d36e504a9cfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLP(Multi-Layer-Perceptron)/mlp01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLP(Multi-Layer-Perceptron)/mlp02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLP(Multi-Layer-Perceptron)/mlp03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLP(Multi-Layer-Perceptron)/mlp04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLP(Multi-Layer-Perceptron)/mlp05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLP(Multi-Layer-Perceptron)/mlp06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +37,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.singlenueron02">
-    <configuration name="singleneuron01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.mlp06">
+    <configuration name="mlp02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,11 +46,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Single_Neuron" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MLP(Multi-Layer-Perceptron)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Single_Neuron/singleneuron01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MLP(Multi-Layer-Perceptron)/mlp02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -54,7 +59,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="singlenueron02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mlp03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +67,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Single_Neuron" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MLP(Multi-Layer-Perceptron)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Single_Neuron/singlenueron02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MLP(Multi-Layer-Perceptron)/mlp03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mlp04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MLP(Multi-Layer-Perceptron)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MLP(Multi-Layer-Perceptron)/mlp04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mlp05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MLP(Multi-Layer-Perceptron)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MLP(Multi-Layer-Perceptron)/mlp05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mlp06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MLP(Multi-Layer-Perceptron)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MLP(Multi-Layer-Perceptron)/mlp06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,8 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.singlenueron02" />
-        <item itemvalue="Python.singleneuron01" />
+        <item itemvalue="Python.mlp06" />
+        <item itemvalue="Python.mlp05" />
+        <item itemvalue="Python.mlp04" />
+        <item itemvalue="Python.mlp03" />
+        <item itemvalue="Python.mlp02" />
       </list>
     </recent_temporary>
   </component>
@@ -96,25 +167,64 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="206" key="GridCell.Tab.0.bottom" timestamp="1580312993438">
+    <state width="1419" height="205" key="GridCell.Tab.0.bottom" timestamp="1581040165479">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="205" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581040165479" />
+    <state width="699" height="206" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1580737431625" />
+    <state width="697" height="206" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.804@0.23.1440.804" timestamp="1580876566391" />
+    <state width="1419" height="205" key="GridCell.Tab.0.center" timestamp="1581040165477">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="205" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581040165477" />
+    <state width="699" height="206" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1580737431624" />
+    <state width="697" height="206" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.804@0.23.1440.804" timestamp="1580876566390" />
+    <state width="1419" height="205" key="GridCell.Tab.0.left" timestamp="1581040165477">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="205" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581040165477" />
+    <state width="699" height="206" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1580737431623" />
+    <state width="697" height="206" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.804@0.23.1440.804" timestamp="1580876566389" />
+    <state width="1419" height="205" key="GridCell.Tab.0.right" timestamp="1581040165478">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="205" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581040165478" />
+    <state width="699" height="206" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1580737431624" />
+    <state width="697" height="206" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.804@0.23.1440.804" timestamp="1580876566390" />
+    <state width="699" height="256" key="GridCell.Tab.1.bottom" timestamp="1580701602888">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1580312993438" />
-    <state width="1419" height="206" key="GridCell.Tab.0.center" timestamp="1580312993437">
+    <state width="699" height="256" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1580632969200" />
+    <state width="699" height="256" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.23.1440.804@0.23.1440.804" timestamp="1580701602888" />
+    <state width="699" height="256" key="GridCell.Tab.1.center" timestamp="1580701602887">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1580312993437" />
-    <state width="1419" height="206" key="GridCell.Tab.0.left" timestamp="1580312993436">
+    <state width="699" height="256" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1580632969200" />
+    <state width="699" height="256" key="GridCell.Tab.1.center/1440.23.1920.1057/0.23.1440.804@0.23.1440.804" timestamp="1580701602887" />
+    <state width="699" height="256" key="GridCell.Tab.1.left" timestamp="1580701602887">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1580312993436" />
-    <state width="1419" height="206" key="GridCell.Tab.0.right" timestamp="1580312993437">
+    <state width="699" height="256" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1580632969199" />
+    <state width="699" height="256" key="GridCell.Tab.1.left/1440.23.1920.1057/0.23.1440.804@0.23.1440.804" timestamp="1580701602887" />
+    <state width="699" height="256" key="GridCell.Tab.1.right" timestamp="1580701602888">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1580312993437" />
-    <state x="443" y="64" key="SettingsEditor" timestamp="1580312155821">
+    <state width="699" height="256" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1580632969200" />
+    <state width="699" height="256" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.804@0.23.1440.804" timestamp="1580701602888" />
+    <state x="443" y="46" key="SettingsEditor" timestamp="1580914649277">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="443" y="46" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580914649277" />
+    <state x="443" y="64" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1580631024700" />
+    <state x="374" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1581512010375">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="374" y="259" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1581512010375" />
+    <state x="374" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1580724079162" />
+    <state x="374" y="259" key="com.intellij.ide.util.TipDialog/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1580878150615" />
+    <state x="137" y="123" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580734975410">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state x="443" y="64" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1580312155821" />
+    <state x="137" y="123" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.804@0.23.1440.804" timestamp="1580734975410" />
   </component>
 </project>
