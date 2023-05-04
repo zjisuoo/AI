@@ -1,8 +1,8 @@
 # AI
 
-<br>
-* Single Neuron
-* MLP(MultiLayer Perceptron)
-* CNN(Convolutional Nueral Network)
-* Reinforcement Algorithm
-* Baysian Algorithm-
+* Single Neuron <br>
+* MLP(MultiLayer Perceptron <br>
+* CNN(Convolutional Nueral Network) <br>
+* Reinforcement Algorithm <br>
+* Baysian Algorithm
+
